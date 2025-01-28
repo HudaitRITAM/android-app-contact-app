@@ -35,9 +35,10 @@ Profile picture.
 Name.
 Phone number.
 
-![Screenshot_1738042354](https://github.com/user-attachments/assets/e78bfc29-bcc6-4a2c-806d-ff9a0f6a23d1)
 
+<img src="https://github.com/user-attachments/assets/e78bfc29-bcc6-4a2c-806d-ff9a0f6a23d1" width="400" alt="Car Details Screen">
 
-![Screenshot_1738042364](https://github.com/user-attachments/assets/f991bb53-0821-495b-910f-c4d2ca3102f1)
+<img src="https://github.com/user-attachments/assets/f991bb53-0821-495b-910f-c4d2ca3102f1" width="400" alt="Car Details Screen">
+
 
 
